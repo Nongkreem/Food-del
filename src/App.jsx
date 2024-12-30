@@ -9,12 +9,14 @@ const App = () => {
   return (
     <div className='app'>
       <Navbar />
-      <Routes>
+      {/* <Routes>
         < Route path='/' element={ <Home/> } />
         < Route path='/cart' element={ <Cart /> } />
         < Route path='/order' element={ <PlaceOrder /> } />
-      </Routes>
+      </Routes> */}
     </div>
   )
 }
+
+
 export  default App;
