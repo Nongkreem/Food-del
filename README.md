@@ -1,8 +1,5 @@
-# React + Vite
+# สร้างเว็บไซต์ร้านอาหารด้วย React JS
+โปรเจกต์นี้สร้างขึ้นโดยอ้างอิงจากวิดีโอสอนบน YouTube
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[https://www.youtube.com/watch?v=9jRTo7ILxQc&list=PL5ZYAxh3sxBCsXk97yqldBJPDXH8gDIYH&index=7]
