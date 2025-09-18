@@ -44,7 +44,7 @@ npm run dev
 ![Overview](./src/assets/screenshots/tomato-demo.png)
 
 ### Hero Section (Desktop Viewport)
-![Hero Section]
+![Hero Section](./src/assets/screenshots/hero-section.png)
 
 ### Explore Menu Section (Smartphone Viewport)
 ![Explore Menu](./src/assets/screenshots/explore-menu-xr.png)
