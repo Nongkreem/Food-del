@@ -40,6 +40,18 @@ npm run dev
 ---
 ## 📸 Screenshots
 
+### Overview
+![Overview](./src/assets/screenshots/tomato-demo.png)
+
+### Hero Section (Desktop Viewport)
+![Hero Section]
+
+### Explore Menu Section (Smartphone Viewport)
+![Explore Menu](./src/assets/screenshots/explore-menu-xr.png)
+
+### Cart Page (iPad/Tablet Viewport)
+![Cart Page](./src/assets/screenshots/cart-ipad.png)
+
 ---
 ## 📖 Reference
 [https://www.youtube.com/watch?v=9jRTo7ILxQc&list=PL5ZYAxh3sxBCsXk97yqldBJPDXH8gDIYH&index=7]
